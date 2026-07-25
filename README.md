@@ -10,5 +10,15 @@ Hi there, this is the profile of a junior developer programer
 * Developer
 
 
-  <img src="https://imgur.com/a/leS0Jx3">
+  <img src="https://i.imgur.com/J1l4DY3.png">
 
+## My Streak!
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiWorkspace&theme=tokyonight">
+
+## My socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-@not.kiwidev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/not.kiwidev/)
+
+## Skilss
+<i class="fa-brands fa-html5"></i>
